@@ -2,8 +2,6 @@
 ###  Pandas Tutorials - Lesson 8                                            ###
 ###############################################################################
 
-# http://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/08%20-%20Lesson.ipynb
-
 import pandas as pd
 import pandas.io.sql
 import pyodbc

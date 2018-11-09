@@ -2,7 +2,6 @@
 ###  Pandas Tutorials - Lesson 4                                            ###
 ###############################################################################
 
-# http://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/04%20-%20Lesson.ipynb
 import pandas as pd
 
 # Make some data

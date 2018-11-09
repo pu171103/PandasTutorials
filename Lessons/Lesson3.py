@@ -2,8 +2,6 @@
 ###  Pandas Tutorials - Lesson 3                                            ###
 ###############################################################################
 
-# http://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Lesson.ipynb
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy.random as np

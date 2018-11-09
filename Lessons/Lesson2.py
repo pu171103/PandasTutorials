@@ -2,8 +2,6 @@
 ###  Pandas Tutorials - Lesson 2                                            ###
 ###############################################################################
 
-# http://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb
-
 import matplotlib
 import pandas as pd
 import matplotlib.pyplot as plt
